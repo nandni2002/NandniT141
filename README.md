@@ -8,9 +8,9 @@
 -& ( and sign ) 
 -* ( Caret symbol)
 -() { Brackets}
-
+# LINK
 [Book](https://gretchenrubin.com/books/the-happiness-project/)
-[Movie](https://en.wikipedia.org/wiki/The_Creator)
+[wiki page](https://en.wikipedia.org/wiki/The_Creator)
 
-# EXPERIMENTS
+# EMOJI
 :blush:   :relaxed:    :wink:
